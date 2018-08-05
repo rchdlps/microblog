@@ -109,3 +109,6 @@ Vagrantfile
 
 # VScode
 .vscode/
+
+# Logs
+logs/
