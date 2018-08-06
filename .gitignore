@@ -112,3 +112,7 @@ Vagrantfile
 
 # Logs
 logs/
+*.log
+
+# PyCharm
+.idea/
