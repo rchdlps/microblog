@@ -116,3 +116,6 @@ logs/
 
 # PyCharm
 .idea/
+
+# Others
+app.db
